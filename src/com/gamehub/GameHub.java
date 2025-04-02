@@ -14,7 +14,7 @@ public class GameHub {
             System.out.println("🎮 Welcome to Shalini's CLI Game Hub! 🎮");
             System.out.println("1. Snake Game");
             System.out.println("2. Word Guessing Game");
-            System.out.println("3. game3");
+            System.out.println("3. TicTacToe");
             System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
 
@@ -30,7 +30,8 @@ public class GameHub {
                     WordGuessGame.start();
                     break;
                 case "3":
-                    System.out.println("currently unavailable. Please choose another game");
+                    System.out.println("Starting Tic Tac Toe...");
+
                     break;
                 case "4":
                     System.out.println("Exiting Game Hub. See you next time!");
