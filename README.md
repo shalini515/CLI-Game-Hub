@@ -1,14 +1,14 @@
-# 🎮 Shalini's CLI Game Hub
+#  Shalini's CLI Game Hub
 
 Welcome to CLI Game Hub! A collection of fun command-line games built using Java. 
 
-## 🕹️ Available Games
+## Available Games
 - ✅ **Word Guessing Game** - Guess the correct word in limited attempts!
 - 🏗️ **Snake Game** (Coming soon)
 - 🏗️ **Tic-Tac-Toe** (Coming soon)
 - 🏗️ **Typing Speed Test** (Coming soon)
 
-## 📌 How to Play
+##  How to Play
 1. Clone this repository:
    ```sh
    git clone https://github.com/shalini515/CLI-Game-Hub.git 
